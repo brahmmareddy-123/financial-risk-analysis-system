@@ -120,7 +120,7 @@ Major Project(ML)
 Clone repository:
 
 ```bash
-git clone https://github.com/your-username/financial-risk-analysis-system.git
+git clone (https://github.com/brahmmareddy-123/financial-risk-analysis-system.git)
 ```
 
 Move into project:
